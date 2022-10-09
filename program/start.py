@@ -63,7 +63,7 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_PHOTO}",
         caption=f"""✨ **مرحبا عزيزي » {message.from_user.mention()} !**\n
-💭 **᥀︙انا بوت استطيع تشغيل الاغاني والموسيقى في المكالمات  الصوتية! 
+💭 **᥀︙انا بوت متنصب ع سورس سقاره استطيع تشغيل الاغاني في المكالمات  الصوتية! 
 
 ᥀︙ لمعرفة اوامر هذا البوت اضغط على » اوامر التشغيل!
 
@@ -84,7 +84,7 @@ async def start_(client: Client, message: Message):
                         "‹ كروب الدعم › ", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "‹ لتنصيب بوت ›", url=f"https://t.me/EITHON1/819"
+                        "‹ لتنصيب بوت ›", url=f"https://t.me/WELS0N"
                     ),
                 ],
                 [
@@ -106,11 +106,11 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("℡ ᯓ Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون", url=f"https://t.me/EITHON1"),
+                InlineKeyboardButton("- 𝐏 𝐴 𝐑 𝑇 𝐘↝ ـ ( ˼سـقـااارهـ˹ )", url=f"https://t.me/kyany_el5as"),
             ],
             [
                 InlineKeyboardButton(
-                    "-محمد .", url=f"https://t.me/M_Z_Z_N"
+                    "𓄂ᬽ𝐃𝐄𝐕 𝐖𝐄𝑳𝐒𝐎𝐍𓆃.", url=f"https://t.me/WELS0N"
                 ),
             ],
             [
@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹℡ ᯓ Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون", url=f"https://t.me/EITHON1"),
+                InlineKeyboardButton("- 𝐏 𝐴 𝐑 𝑇 𝐘↝ ـ ( ˼سـقـااارهـ˹ )", url=f"https://t.me/kyany_el5as"),
             ],
             [
                 InlineKeyboardButton(
