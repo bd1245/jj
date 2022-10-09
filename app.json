@@ -1,7 +1,7 @@
 {
-    "name": "Ξ𝗜𝗧𝗛𝗢𝗡™ ايثون",
+    "name": "𓄂سورس سـقـااارهـ𓆃",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/e9258f1ae714616d2cdbb.jpg",
+    "logo": "https://telegra.ph/file/07767a371c11231237884.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/EITHON1",
+    "website": "https://t.me/kyany_el5as",
     "repository": "https://github.com/pqnzbmmwQ92/ll",
-    "success_url": "https://t.me/EITHMU1",
+    "success_url": "https://t.me/kyany_el5as",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -81,7 +81,7 @@
         "MONGODB_URL": {
             "description": "لا تغيره!",
             "required": true,
-            "value": "mongodb+srv://lucifer:ASShaw96@lucifer.vuows.mongodb.net/lucifer?retryWrites=true&w=majority"
+            "value": "mongodb+srv://lucifelucifer:ASShaw96r:ASShaw96@lucifer.vuows.mongodb.net/lucifer?retryWrites=true&w=majority"
         },
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
