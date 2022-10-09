@@ -12,7 +12,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/kyany_el5as",
-    "repository": "https://github.com/pqnzbmmwQ92/ll",
+    "repository": "https://github.com/bd1245/jj/tree/patch-2",
     "success_url": "https://t.me/kyany_el5as",
     "env": {
         "API_ID": {
@@ -38,7 +38,7 @@
             "value": ""
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "قم بوضع كود البايوجرام هنا",
             "required": true
         },
         "SUDO_USERS": {
@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
             "required": true,
-            "value": "https://github.com/pqnzbmmwQ92/ll"
+            "value": "https://github.com/bd1245/jj/tree/patch-2"
         }
     },
     "addons": [],
